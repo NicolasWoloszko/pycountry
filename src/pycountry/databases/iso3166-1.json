@@ -815,7 +815,7 @@
     {
       "alpha_2": "KR",
       "alpha_3": "KOR",
-      "name": "Korea, Republic of",
+      "name": "Korea",
       "numeric": "410"
     },
     {
@@ -1268,7 +1268,7 @@
     {
       "alpha_2": "RU",
       "alpha_3": "RUS",
-      "name": "Russian Federation",
+      "name": "Russia",
       "numeric": "643"
     },
     {
@@ -1395,7 +1395,7 @@
     {
       "alpha_2": "SK",
       "alpha_3": "SVK",
-      "name": "Slovakia",
+      "name": "Slovak Republic",
       "numeric": "703",
       "official_name": "Slovak Republic"
     },
